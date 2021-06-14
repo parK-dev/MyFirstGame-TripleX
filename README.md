@@ -9,5 +9,3 @@ Each level adds a number to the code, making it more difficult to crack.
 The player is given hints, i.e., the sum of the integers and their product.
 
 By using these hints, one should be able to make simple calculations and guess what the code is.
-
-This was the first game I created while learning C++ on Udemy.
